@@ -10854,4 +10854,4 @@ function highlightElement(preElement) {
 window.Prism = window.Prism || {};
 Prism.manual = true;
 
-export { highlightAll };
+export { ns as $addUpdateTag, xo as $getNodeByKey, No as $getRoot, Ye as BLUR_COMMAND, je$1 as CLEAR_HISTORY_COMMAND, Ri as COMMAND_PRIORITY_NORMAL, ki as DecoratorNode, Ve$1 as FOCUS_COMMAND, Ne$1 as KEY_ENTER_COMMAND, zn as SKIP_DOM_SELECTION_TAG, $i as createEditor, highlightAll };

@@ -22,3 +22,5 @@ import "./elements/prompt"
 import "./elements/code_language_picker"
 
 export { highlightAll } from "./helpers/code_highlighting_helper"
+
+export * from "./elements/editor.js";

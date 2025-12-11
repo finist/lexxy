@@ -446,3 +446,17 @@ export default class LexicalEditorElement extends HTMLElement {
 }
 
 customElements.define("lexxy-editor", LexicalEditorElement)
+
+export {
+  $addUpdateTag,
+  $getNodeByKey,
+  $getRoot,
+  BLUR_COMMAND,
+  CLEAR_HISTORY_COMMAND,
+  COMMAND_PRIORITY_NORMAL,
+  DecoratorNode,
+  FOCUS_COMMAND,
+  KEY_ENTER_COMMAND,
+  SKIP_DOM_SELECTION_TAG,
+  createEditor
+};
